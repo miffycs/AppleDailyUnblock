@@ -16,7 +16,7 @@
 把原本的URL刪除, 加入這行code(很長, 要複製全部喔):
 
 ```
-(function(){document.body.appendChild(document.createElement('script')).src='https://github.com/miffycs/AppleDailyUnblock/blob/master/unblock.js';})();
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://dl.dropbox.com/s/hnft3zhxjfd099i/unblock.js';})();
 ```
 
 ![](https://github.com/miffycs/AppleDailyUnblock/blob/master/img2.png)
